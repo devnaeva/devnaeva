@@ -1,7 +1,7 @@
 <p align="center">
   i really like music 🎧
   <br><br>
-  <img src="https://novatorem-sepia-six.vercel.app/api/spotify?background_color=160f2c&border_color=000000" width="350"/>
+  <img src="https://novatorem-sepia-six.vercel.app/api/spotify?background_color=000000&border_color=4a26a7" width="350"/>
   <br>
   i do stuff in:
   <br><br>
